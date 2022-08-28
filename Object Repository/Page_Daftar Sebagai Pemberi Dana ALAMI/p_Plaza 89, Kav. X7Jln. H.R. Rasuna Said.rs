@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Plaza 89, Kav. X7Jln. H.R. Rasuna Said</name>
+   <tag></tag>
+   <elementGuidId>0cc36a13-b39d-454d-af8a-a767cc9be162</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollWrapper']/p[22]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1df20f43-cd18-4c8a-8f54-a9ef14cded73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plaza 89, Kav. X7Jln. H.R. Rasuna Said No. 6Kel. Karet KuninganKec. Setiabudi Kota Adm. Jakarta Selatan DKI Jakarta 021- 31116191 Instagram: ​@ALAMIsharia Atau kunjungi laman FAQ ALAMI untuk informasi lebih lanjut.</value>
+      <webElementGuid>86e07071-678b-4cc0-b9ec-87e296cbd793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollWrapper&quot;)/p[22]</value>
+      <webElementGuid>99e316fd-a1d0-4ae2-bd6a-3b9b5ebeebd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollWrapper']/p[22]</value>
+      <webElementGuid>7eca826c-af38-435e-854a-dc579f1c60d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KONTAK DAN MEDIA SOSIAL ALAMI'])[1]/following::p[1]</value>
+      <webElementGuid>b294b6b7-279d-4a13-9fc2-9d4b8b20e35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUKUM YANG BERLAKU DAN YURISDIKSI'])[1]/following::p[2]</value>
+      <webElementGuid>94370b09-37b6-4966-8b3d-910a3b884a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plaza 89, Kav. X7']/parent::*</value>
+      <webElementGuid>cb881164-f0e8-4feb-b9e3-78b9421b4d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[22]</value>
+      <webElementGuid>86169b2f-9a7b-455a-b3a0-dad2fb44137f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Plaza 89, Kav. X7Jln. H.R. Rasuna Said No. 6Kel. Karet KuninganKec. Setiabudi Kota Adm. Jakarta Selatan DKI Jakarta 021- 31116191 Instagram: ​@ALAMIsharia Atau kunjungi laman FAQ ALAMI untuk informasi lebih lanjut.' or . = 'Plaza 89, Kav. X7Jln. H.R. Rasuna Said No. 6Kel. Karet KuninganKec. Setiabudi Kota Adm. Jakarta Selatan DKI Jakarta 021- 31116191 Instagram: ​@ALAMIsharia Atau kunjungi laman FAQ ALAMI untuk informasi lebih lanjut.')]</value>
+      <webElementGuid>76f3d3df-6961-4638-a19c-c43e8f060082</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
